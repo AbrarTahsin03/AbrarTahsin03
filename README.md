@@ -66,21 +66,20 @@
 </p>
 
 ---
-<!--
 ### 📫 Let’s Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmudniloy680/" target="_blank">
+  <a href="https://www.linkedin.com/in/tahsin-abrar-282ba3368/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mahmudniloy680work@gmail.com" target="_blank">
+  <a href="mailto:abrartahsin19@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.facebook.com/mahmudniloy680/" target="_blank">
+  <a href="https://www.facebook.com/abrartahsin19/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
 ---
--->
+
 <p align="center"><em>“Code is like humor. When you have to explain it, it’s bad.”</em> – Cory House</p>
