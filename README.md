@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I’m Tahsin Abrar —
-</br>
+<h1 align="center">👋 Hi, I’m Tahsin Abrar
+<br/>
   Competitive Programmer & CSE Enthusiast
 </h1>
 
@@ -7,7 +7,7 @@
 
 ### 🔭 Currently focused on  
 - Mastering algorithms & data structures  
-- Competitive Programming challenges on Codeforces, Codechef & other Online Judges  
+- Competitive Programming challenges on Codeforces, CodeChef & other Online Judges  
 - Building efficient, compact & clean code
 
 ---
@@ -25,6 +25,12 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
+
+---
+
+### 📂 Featured Repository
+
+- [**Phitron_XPSC_Batch_7**](https://github.com/AbrarTahsin03/Phitron_XPSC_Batch_7) — all code from Phitron XPSC Batch 7: Intro to Programming, C++ for DSA, Basic Data Structures, Intro to Algorithms, plus weekly problem-set solutions
 
 ---
 
@@ -61,14 +67,13 @@
 ### 🧠 Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrarTahsin03&theme=github-dark-dimmed" alt="Contribution Activity Graph" width="90% />
-    </br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrarTahsin03&theme=github-dark-dimmed" alt="Contribution Activity Graph" width="90%" />
 </p>
 
 ---
+
 ### 📫 Let’s Connect  
 
-</br>
 <p align="center">
   <a href="https://www.linkedin.com/in/tahsin-abrar-282ba3368/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
